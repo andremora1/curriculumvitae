@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title> Currículum Vitae </title>
+
+    </head>
+    <body>
+        <style>
+            hr{
+                height: 2px; 
+                background-color: #5DC1B9; 
+            }
+            h1,h2{text-align: center;} 
+        </style>
+        <hr>
+        <h1> Andrea Victoria Mora Chaves </h1>
+        <hr> 
+        <p> Andreamorachav@gmail.com </p>
+        <p> 85413602 </p>
+        <hr>
+        <h2> Aptitudes </h2>
+        <hr> 
+        <ul>
+            <li> Trabajo en equipo </li>
+            <li> Disciplina </li>
+            <li> Empatía </li>
+            <li> Liderazgo </li>
+            <li> Adaptabilidad </li>
+        </ul>
+        <hr>
+        <h2> Educación </h2>
+        <hr> 
+        <h3> 2020 BACHILLERATO EN EDUCACIÓN MEDIA. </h3>
+            <p> LICEO DE PURISCAL. SAN JOSÉ. </p>
+            <h3> DESDE 2021 HUMANIDADES. </h3>
+            <p> UNIVERSIDAD ESTATAL A DISTANCIA. COSTA RICA. </p>
+            <hr>
+            <h2> Educación complementaria </h2>
+            <hr> 
+            <p> 2021 MENTE EN ACCIÓN (MUJERES EN CIENCIA Y
+                TECNOLOGÍA). 14va EDICIÓN. IDEAS EN ACCIÓN. SAN
+                JOSÉ, COSTA RICA. </p>
+                <p> 2021 CIRCUITOS EN CORRIENTE CONTINUA. ROCKET
+                    GIRLS. SAN JOSÉ, COSTA RICA. </p>
+                    <p> 2021 PROGRAMANDO MI MUNDO LABORAL. 3ra EDICIÓN.
+                        IDEAS EN ACCIÓN. SAN JOSÉ, COSTA RICA. </p>
+    </body>
